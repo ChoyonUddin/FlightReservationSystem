@@ -1,0 +1,10 @@
+package assignment2;
+//Choyon Uddin
+//501031767
+//April 16th 2021
+public class SeatOccupiedException extends Exception {
+	
+	public SeatOccupiedException(String error) {
+		super(error);
+	}
+}

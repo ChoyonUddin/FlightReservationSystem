@@ -1,0 +1,9 @@
+package assignment2;
+//Choyon Uddin
+//501031767
+//April 16th 2021
+public class PassengerNotFoundException extends Exception {
+	public PassengerNotFoundException(String error) {
+		super(error);
+	}
+}
