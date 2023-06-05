@@ -1,7 +1,6 @@
 package assignment2;
 //Choyon Uddin
-//501031767
-//April 16th 2021
+
 import java.io.File;
 import java.io.FileNotFoundException;
 //Choyon Uddin

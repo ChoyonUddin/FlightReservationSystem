@@ -1,7 +1,6 @@
 package assignment2;
 //Choyon Uddin
-//501031767
-//April 16th 2021
+
 /*
  * A Long Haul Flight is a flight that travels a long distance and has two types of seats (First Class and Economy)
  */

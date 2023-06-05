@@ -1,7 +1,6 @@
 package assignment2;
 //Choyon Uddin
-//501031767
-//April 16th 2021
+
 /*
  * 
  * This class models an aircraft type with a model name, a maximum number of economy seats, and a max number of forst class seats 

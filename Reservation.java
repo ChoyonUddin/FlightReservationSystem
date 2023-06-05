@@ -1,7 +1,5 @@
 package assignment2;
 //Choyon Uddin
-//501031767
-//April 16th 2021
 /*
  * A simple class to model an electronic airline flight reservation
  * 
